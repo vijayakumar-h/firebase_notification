@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:23916134319:android:38f5b0c69ad487186a395a",
+        "mobilesdk_app_id": "1:23916134319:android:1713596f3961ed576a395a",
         "android_client_info": {
-          "package_name": "com.firebase_notification"
+          "package_name": "com.firebaseNotification"
         }
       },
       "oauth_client": [],
